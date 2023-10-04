@@ -34,5 +34,5 @@ build/
 
 ### 前端一些要排除的文件夹  ###
 */node_modules
-!**/**/.vitepress/cache
-!**/**/.vitepress/dist
+!**/**/.vitepress/cache/
+!**/**/.vitepress/dist/
